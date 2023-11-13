@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, I'm Anton Dumov 👋
+
+## Web Developer | Python & Django Specialist | Full Stack Enthusiast
+
+I am a dynamic web developer with a passion for backend development, specializing in Django and Python. With experience in back-end development, I am dedicated to building robust, user-friendly digital experiences.
+
+### 💻 Technical Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, Vue.js, Bootstrap
+- **Databases:** PostgreSQL
+- **Tools:** Git, Docker, Linux
 
 <!--
 **AntonDumov/AntonDumov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
