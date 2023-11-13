@@ -2,7 +2,7 @@
 
 ## Web Developer | Python & Django Specialist | Full Stack Enthusiast
 
-I am a dynamic web developer with a passion for backend development, specializing in Django and Python. With experience in back-end development, I am dedicated to building robust, user-friendly digital experiences.
+I am a web developer with a passion for backend development, specializing in Django and Python. With experience in full-stack development, I am dedicated to building robust, user-friendly digital experiences.
 
 ### 💻 Technical Skills
 - **Languages:** Python, JavaScript
