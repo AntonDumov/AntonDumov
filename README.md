@@ -6,7 +6,7 @@ I am a web developer with a passion for backend development, specializing in Dja
 
 ### 💻 Technical Skills
 - **Languages:** Python, JavaScript
-- **Frameworks:** Django, Vue.js, Bootstrap
+- **Frameworks:** Django, Bootstrap
 - **Databases:** PostgreSQL
 - **Tools:** Git, Docker, Linux
 
